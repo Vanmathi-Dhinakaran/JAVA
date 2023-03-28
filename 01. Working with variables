@@ -1,0 +1,33 @@
+package datatype1;
+
+public class EmployeeDetails {
+
+	public static void main(String [] args) {
+		
+		System.out.println("*********************************");
+		
+		//variable declaration
+		int empId;
+		String empName;
+		double empSalary;
+		float exp;
+		long mobile;
+		
+		//variable initialization
+		empId = 840;
+		empName = "Mathi";
+		empSalary = 60000;
+		exp = 1.2f;
+		mobile = 711111110;
+		
+		// variable utilization
+		System.out.println("Employee ID: "+empId);
+		System.out.println("Employee Name: "+empName);
+		System.out.println("Employee Salary: "+empSalary);
+		System.out.println("Employee Experience: "+exp);
+		System.out.println("Employee Mobile: "+mobile);
+		
+		System.out.println("*********************************");
+		
+	}
+}
