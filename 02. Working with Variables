@@ -1,0 +1,24 @@
+package datatype1;
+
+public class program1 {
+	
+    public static void main(String[] args) {
+		System.out.println("********************");
+		
+		//declaration and initialization
+		int x = 10;
+		System.out.println("value of x is "+x);
+		
+		//reassigning the value of x
+		x = 20;
+		System.out.println("value of x is "+x);
+		
+		//final keyword can be used to define a constant
+		final double PI = 3.14;
+		System.out.println("value of PI is "+PI);
+		
+		// it is not possible to reassign a final variable
+		System.out.println("********************");
+	}
+
+}
