@@ -15,3 +15,6 @@ Platform Independent
 The Java language itself is type-safe and provides automatic garbage collection, enhancing the robustness of application code. A secure class loading and verification mechanism ensures that only legitimate Java code is executed. Backward Compatability in the sense, a latest version of the java release can support the old release version code thus there is no need to rewrite them according to new release. Another important feature is Java is a free open sources software, thus there is no need to pay for the software. Coming to platform independent the java code can be compiled and executed in any computer or laptop but they need to have Java Development Kitna installed in their system.
 
 Now coming to the usage field, java is used in many areas such as Web Development, Android App, Web servers, and much more. It is mainly used in server side development in backend processing.
+
+
+Take a look at my Blog https://medium.com/@VanmathiDhinakaran/java-7bc3fed10c3e
